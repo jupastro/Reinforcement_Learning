@@ -1,2 +1,4 @@
 # Reinforcement_Learning
-Implemented algorithms for RL courses
+
+* **Monte Carlo** on-policy method: with an epsilon-decaying-greedy policy
+* **Temporal Difference SARSA** one-step ahead on policy: with an epsilon-decaying-greedy policy
